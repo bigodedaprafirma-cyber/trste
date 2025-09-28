@@ -1,4 +1,4 @@
-import { Star, Quote, CheckCircle, TrendingUp } from "lucide-react";
+import { Star, Quote, CircleCheck as CheckCircle, TrendingUp } from "lucide-react";
 
 const TestimonialSection = () => {
   const testimonials = [

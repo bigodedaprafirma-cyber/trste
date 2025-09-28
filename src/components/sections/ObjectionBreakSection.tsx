@@ -1,4 +1,4 @@
-import { HelpCircle, CheckCircle, Clock, DollarSign, Brain } from "lucide-react";
+import { CircleHelp as HelpCircle, CircleCheck as CheckCircle, Clock, DollarSign, Brain } from "lucide-react";
 
 const ObjectionBreakSection = () => {
   const objections = [

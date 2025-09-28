@@ -1,4 +1,4 @@
-import { Shield, CheckCircle, RefreshCw, Clock } from "lucide-react";
+import { Shield, CircleCheck as CheckCircle, RefreshCw, Clock } from "lucide-react";
 
 const GuaranteeSection = () => {
   const guaranteeFeatures = [

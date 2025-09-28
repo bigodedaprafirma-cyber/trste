@@ -1,4 +1,4 @@
-import { AlertTriangle, Clock, BookX, Brain, PenTool } from "lucide-react";
+import { TriangleAlert as AlertTriangle, Clock, BookX, Brain, PenTool } from "lucide-react";
 
 const ProblemSection = () => {
   const problems = [
